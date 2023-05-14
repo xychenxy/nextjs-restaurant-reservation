@@ -6,8 +6,6 @@ export default function Header() {
 				<h1 className="text-white text-5xl font-bold mb-2">
 					Find your table for any occasion
 				</h1>
-				<h2>Test git v1 + </h2>
-				<h2>Test git v3 </h2>
 				<SearchBar />
 			</div>
 		</div>
