@@ -6,7 +6,7 @@ export default function Header() {
 				<h1 className="text-white text-5xl font-bold mb-2">
 					Find your table for any occasion
 				</h1>
-				master 2
+				master 2 master 3
 				<SearchBar />
 			</div>
 		</div>
