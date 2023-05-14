@@ -6,7 +6,7 @@ export default function Header() {
 				<h1 className="text-white text-5xl font-bold mb-2">
 					Master 1 r
 				</h1>
-				world
+				hello world
 				<h1 className="text-white text-5xl font-bold mb-2">master 1</h1>
 				<SearchBar />
 			</div>
