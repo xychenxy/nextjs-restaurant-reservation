@@ -8,6 +8,7 @@ export default function Header() {
 				</h1>
 				<h1>master 1</h1>
 				<h1>master 2</h1>
+				<h1>master 3</h1>
 				<SearchBar />
 			</div>
 		</div>
