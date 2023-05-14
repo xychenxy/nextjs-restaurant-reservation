@@ -6,6 +6,7 @@ export default function Header() {
 				<h1 className="text-white text-5xl font-bold mb-2">
 					Master 2 main2
 				</h1>
+				<h1 className="text-white text-5xl font-bold mb-2">master 2</h1>
 				<SearchBar />
 			</div>
 		</div>
