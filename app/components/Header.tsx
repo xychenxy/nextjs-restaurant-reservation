@@ -7,6 +7,7 @@ export default function Header() {
 					Find your table for any occasion
 				</h1>
 				<h1>master 1</h1>
+				<h1>master 2</h1>
 				<SearchBar />
 			</div>
 		</div>
